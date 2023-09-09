@@ -1,2 +1,2 @@
 # ASHIDI-JOY---HNGx-Profile1
-This inludes STAGE ONE task for the HNGx internship programme
+This inludes STAGE ONE task for the HNGx internship programme frontend track
